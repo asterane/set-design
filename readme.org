@@ -1,0 +1,15 @@
+#+TITLE: Set Design
+#+OPTIONS: toc:nil
+
+* Set Design
+:PROPERTIES:
+:UNNUMBERED: notoc
+:END:
+
+[[file:camelot.jpg]]
+
+#+TOC: headlines
+
+* Overview
+Designs and images of the theatrical sets for which I oversaw
+construction. This readme will become more extensive in the future.
